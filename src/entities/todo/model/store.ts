@@ -47,3 +47,5 @@ export const useTodosStore = create<useTodosStore>()(
     ),
   ),
 );
+
+export default useTodosStore;
